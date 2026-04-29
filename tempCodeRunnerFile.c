@@ -1,0 +1,1 @@
+O produto %s tem estoque minimo
