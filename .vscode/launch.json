@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/tema2",
-      "program": "d:/tema2/build/Debug/outDebug",
+      "cwd": "d:/tema2/Tema 3 - Super Trunfo",
+      "program": "d:/tema2/Tema 3 - Super Trunfo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
