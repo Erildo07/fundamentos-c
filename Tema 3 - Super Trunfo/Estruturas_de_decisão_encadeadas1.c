@@ -14,4 +14,15 @@ int main() {
     // F < 60
 
 
-    if ()
+    if (nota >= 90){
+        printf("Conceito A!");
+
+    }  else if (nota >= 80) {
+        printf("Conceito e B:")
+
+    } else if (condition)
+    {
+        /* code */
+    }
+    
+    
